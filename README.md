@@ -3,10 +3,9 @@
 
 # Hi 👋! I'm Mustapha (killux), a Full-Stack Developer from The Earth
 
-I'm passionate about building robust, scalable web applications and exploring systems programming with Rust. My expertise spans front-end, back-end, and low-level development, creating seamless solutions from concept to deployment.
+I am passionate about building robust and scalable web applications while exploring the exciting world of systems programming with Rust. My expertise bridges front-end, back-end, and low-level development, allowing me to deliver seamless solutions from concept through deployment.
 
-- 🔭 I’m currently working on 0-Shell
-- 🌱 I’m currently learning Rust-go-js
+- 🔭  Currently, I am focused on developing 01-Blog (blogging project)
 - 💬 Ask me about anything in programming
 - 📫 How to reach me: emails or number
 - 😄 Pronouns: kill-ux
