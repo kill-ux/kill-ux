@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# Hi 👋! I'm Mustapha (killux), a Full-Stack Developer from The Earth
+# Hi 👋! I'm Mustapha Boutoub (killux), a Full-Stack Developer from The Earth
 
 I am passionate about building robust and scalable web applications while exploring the exciting world of systems programming with Rust. My expertise bridges front-end, back-end, and low-level development, allowing me to deliver seamless solutions from concept through deployment.
 
