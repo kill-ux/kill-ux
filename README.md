@@ -39,10 +39,16 @@ I am passionate about building robust and scalable web applications while explor
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge-slim&logo=go&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge-slim&logo=python&logoColor=fff)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge-slim&logo=ruby&logoColor=fff)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge-slim&logo=rust&logoColor=fff)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge-slim&logo=gnu-bash&logoColor=fff)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge-slim&logo=mysql&logoColor=fff)
 ![Unix](https://img.shields.io/badge/Unix-FCC624?style=for-the-badge-slim&logo=gnubash&logoColor=000)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
+
 
 ---
 
