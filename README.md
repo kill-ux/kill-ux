@@ -1,142 +1,67 @@
-## Hi there 👋
+<h1 align="center">Mustapha Boutoub</h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=4ADE80&center=true&vCenter=true&width=600&lines=Full-Stack+%26+DevOps+Engineer;Spring+Boot+%C2%B7+Docker+%C2%B7+Terraform+%C2%B7+Rust;I+build+it%2C+ship+it%2C+and+know+what's+underneath" alt="Typing SVG" />
+  </a>
+</p>
 
-# Hi 👋! I'm Mustapha Boutoub (killux), a Full-Stack Developer from The Earth
-
-I am passionate about building robust and scalable web applications while exploring the exciting world of systems programming with Rust. My expertise bridges front-end, back-end, and low-level development, allowing me to deliver seamless solutions from concept through deployment.
-
-- 🔭  Currently, I am focused on developing 01-Blog (blogging project)
-- 💬 Ask me about anything in programming
-- 📫 How to reach me: emails or number
-- 😄 Pronouns: kill-ux
-- ⚡ Fun fact: ...
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/1e/a8/0e/1ea80e7cea0d429146580c7e91c5b944.gif"  />
-
+<p align="center">
+  <a href="mailto:mustaphaboutoubdev@gmail.com"><img src="https://img.shields.io/badge/Email-0a0b0a?style=flat-square&logo=gmail&logoColor=4ade80" alt="Email"></a>
+  <a href="https://linkedin.com/in/muboutoub"><img src="https://img.shields.io/badge/LinkedIn-0a0b0a?style=flat-square&logo=linkedin&logoColor=4ade80" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Oujda%2C%20Morocco-0a0b0a?style=flat-square&logo=googlemaps&logoColor=4ade80" alt="Location">
+  <img src="https://img.shields.io/badge/Open%20to%20work-4ade80?style=flat-square&labelColor=0a0b0a" alt="Open to work">
+</p>
 
 ---
 
-🔥 **Technologies im current learning and using everyday:**
+### About
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=for-the-badge-slim&logo=javascript&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge-slim&logo=typescript&logoColor=fff)
-![Nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge-slim&logo=next.js&logoColor=fff)
-![React](https://img.shields.io/badge/-React.js-45b8d8?style=for-the-badge-slim&logo=react&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge-slim&logo=graphql&logoColor=white)
-![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge-slim&logo=node.js&logoColor=fff)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge-slim&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge-slim&logo=css3&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge-slim&logo=docker&logoColor=fff)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge-slim&logo=c&logoColor=fff)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge-slim&logo=go&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge-slim&logo=python&logoColor=fff)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge-slim&logo=ruby&logoColor=fff)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge-slim&logo=gnu-bash&logoColor=fff)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge-slim&logo=mysql&logoColor=fff)
-![Unix](https://img.shields.io/badge/Unix-FCC624?style=for-the-badge-slim&logo=gnubash&logoColor=000)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
-[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
+I'm a full-stack and DevOps engineer in the **Zone 01 Oujda** program (2024–2026). I build backend services, ship them through real CI/CD pipelines, and dig into the layers underneath, from containers down to a kernel I wrote myself.
 
+- 🔭 Currently building a **Spring Boot microservices** e-commerce platform (Product and Media services)
+- ☁️ Comfortable taking an app from code to cloud: **Terraform, Ansible, GitLab CI, AWS**
+- 🦀 Learning systems programming in **Rust** and low-level x86
+- 📫 Best way to reach me: [mustaphaboutoubdev@gmail.com](mailto:mustaphaboutoubdev@gmail.com)
 
 ---
 
-☁️ **Cloud, infrastructure and OS:**
+### Tech stack
 
-![Macos](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge-slim&logo=linux&logoColor=fff)
-
----
-
-💻 **Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge-slim&logo=mysql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge-slim&logo=mongodb&logoColor=fff)
-
----
-
-🛠 **General technology knowledge and skills:**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge-slim&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge-slim&logo=docker&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-533B78?style=for-the-badge-slim&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge-slim&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=for-the-badge-slim&logo=css3&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-Important-brightgreen?style=for-the-badge-slim)
-![AI](https://img.shields.io/badge/AI/ML-Learning-blueviolet?style=for-the-badge-slim)
-![Backend](https://img.shields.io/badge/Back--end-Node/Express-brightgreen?style=for-the-badge-slim)
-![Frontend](https://img.shields.io/badge/Front--end-React/Vue/HTML/CSS-blue?style=for-the-badge-slim)
-![GameDev](https://img.shields.io/badge/Game%20Dev-Rust/JS-informational?style=for-the-badge-slim)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-Networking-informational?style=for-the-badge-slim)
-![System Admin](https://img.shields.io/badge/System_Admin-Unix/bash-important?style=for-the-badge-slim)
-![Statistics](https://img.shields.io/badge/Statistics-Data_Analysis-lightgrey?style=for-the-badge-slim)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,rust,bash&theme=dark" alt="Languages and frameworks" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,aws,gitlab,linux,git&theme=dark" alt="Infrastructure and tooling" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,rabbitmq&theme=dark" alt="Data and messaging" />
+</p>
 
 ---
 
-🔥 **intrested to learn:**
+### Selected projects
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge-slim&logo=java&logoColor=fff)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge-slim&logo=php&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge-slim&logo=amazon%20aws&logoColor=fff)
-![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge-slim&logo=vuedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge-slim&logo=express&logoColor=fff)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge-slim&logo=dotnet&logoColor=fff)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge-slim&logo=django&logoColor=fff)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge-slim&logo=electron&logoColor=fff)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge-slim&logo=laravel&logoColor=fff)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge-slim&logo=rubyonrails&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge-slim&logo=c%2B%2B&logoColor=fff)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge-slim&logo=c-sharp&logoColor=fff)
+| Project | What it is | Stack |
+|---|---|---|
+| **Buy-01** | E-commerce platform on microservices. I own the Product and Media services (JWT validated at the gateway, S3-compatible object storage for images). | Spring Boot, Angular, MongoDB, MinIO, Eureka |
+| **Code-Keeper** | Full CI/CD for a microservices app: GitLab and runners via Ansible, staging and production via Terraform, image scanning in every pipeline. | GitLab CI, Ansible, Terraform, Terragrunt, Docker |
+| **Cloud Design** | AWS infrastructure for a microservices app, fully in Terraform and rebuilt from a single apply. | AWS ECS, ALB, VPC, Terraform, PostgreSQL |
+| **Let's Play API** | REST API with JWT auth, role-based access, and Redis-backed token revocation. | Spring Boot, MongoDB, Redis |
+| **Kernel from scratch** | Linux-like kernel: NASM bootloader, protected mode, and a `no_std` Rust kernel booting in QEMU. | NASM, x86, Rust, QEMU |
+| **Orchestrator** | Microservices stack deployed and managed on a k3s cluster. | Kubernetes, k3s, Docker, RabbitMQ |
 
 ---
-###
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kill-ux&theme=aura_dark)
+### GitHub stats
 
-###
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kill-ux&show_icons=true&hide_border=true&bg_color=0a0b0a&title_color=4ade80&icon_color=4ade80&text_color=f1f1ec" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kill-ux&layout=compact&hide_border=true&bg_color=0a0b0a&title_color=4ade80&text_color=f1f1ec&langs_count=6" alt="Top languages" />
+</p>
 
-###
+---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kill-ux&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kill-ux&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kill-ux&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kill-ux&theme=aura_dark&utcOffset=8)
-
-###
-
-### Connect with Me
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" />
-
-
-
-<!--
-**kill-ux/kill-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+<p align="center">
+  <i>Open to full-time roles, remote, onsite, or hybrid. Let's talk.</i>
+</p>
